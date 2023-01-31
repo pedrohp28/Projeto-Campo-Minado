@@ -1,4 +1,4 @@
-package br.com.pedrohp28.cm.modelo;
+package br.com.pedrohp28.cm.testmodelo;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
