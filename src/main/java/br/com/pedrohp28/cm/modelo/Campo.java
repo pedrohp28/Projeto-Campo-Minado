@@ -1,4 +1,4 @@
-package br.com.pedrohp28.cm.testmodelo;
+package br.com.pedrohp28.cm.modelo;
 
 import java.util.ArrayList;
 import java.util.List;

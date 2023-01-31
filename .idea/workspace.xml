@@ -59,12 +59,12 @@
       <module name="campo-minado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.pedrohp28.cm.testmodelo.*" />
+          <option name="PATTERN" value="br.com.pedrohp28.cm.modelo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="br.com.pedrohp28.cm.modelo" />
-      <option name="MAIN_CLASS_NAME" value="br.com.pedrohp28.cm.testmodelo.CampoTeste" />
+      <option name="MAIN_CLASS_NAME" value="br.com.pedrohp28.cm.modelo.CampoTeste" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,12 +74,12 @@
       <module name="campo-minado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.pedrohp28.cm.testmodelo.*" />
+          <option name="PATTERN" value="br.com.pedrohp28.cm.modelo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="br.com.pedrohp28.cm.modelo" />
-      <option name="MAIN_CLASS_NAME" value="br.com.pedrohp28.cm.testmodelo.CampoTeste" />
+      <option name="MAIN_CLASS_NAME" value="br.com.pedrohp28.cm.modelo.CampoTeste" />
       <option name="METHOD_NAME" value="testeVizinhoRealDistancia1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -90,12 +90,12 @@
       <module name="campo-minado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.pedrohp28.cm.testmodelo.*" />
+          <option name="PATTERN" value="br.com.pedrohp28.cm.modelo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="br.com.pedrohp28.cm.modelo" />
-      <option name="MAIN_CLASS_NAME" value="br.com.pedrohp28.cm.testmodelo.CampoTeste" />
+      <option name="MAIN_CLASS_NAME" value="br.com.pedrohp28.cm.modelo.CampoTeste" />
       <option name="METHOD_NAME" value="testeVizinhoRealDistancia1Direita" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
