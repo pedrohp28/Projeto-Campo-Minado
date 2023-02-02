@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70021e1b-03fb-4da3-b596-bde2acde4f42" name="Changes" comment="Criando as classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/Aplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/excecao/ExplosaoException.java" afterDir="false" />
+    <list default="true" id="70021e1b-03fb-4da3-b596-bde2acde4f42" name="Changes" comment=".Fazendo os teste da classe &quot;Campo&quot;;&#10;.Criação da classe &quot;EplosaoException&quot;;&#10;.Criação de novos metodos na classe &quot;Campo&quot;&#10;.Criação de novos metodos na classe &quot;Tabuleiro&quot;&#10;.Criação da classe &quot;Aplicacao&quot;;&#10;.Testando a classe Tabuleiro;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/excecao/SairException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/visao/TabuleiroConsole.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/Aplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/Aplicacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/modelo/Campo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/modelo/Campo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/modelo/Tabuleiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/pedrohp28/cm/modelo/Tabuleiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/pedrohp28/cm/modelo/CampoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/pedrohp28/cm/modelo/CampoTeste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +153,8 @@
       <updated>1675119541350</updated>
       <workItem from="1675119542555" duration="4141000" />
       <workItem from="1675123753205" duration="37000" />
-      <workItem from="1675201786998" duration="6238000" />
+      <workItem from="1675201786998" duration="6715000" />
+      <workItem from="1675344319620" duration="3490000" />
     </task>
     <task id="LOCAL-00001" summary="Criando as classes">
       <created>1675123332004</created>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675123646130</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".Fazendo os teste da classe &quot;Campo&quot;;&#10;.Criação da classe &quot;EplosaoException&quot;;&#10;.Criação de novos metodos na classe &quot;Campo&quot;&#10;.Criação de novos metodos na classe &quot;Tabuleiro&quot;&#10;.Criação da classe &quot;Aplicacao&quot;;&#10;.Testando a classe Tabuleiro;">
+      <created>1675208385141</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675208385141</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +203,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando as classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando as classes" />
+    <MESSAGE value=".Fazendo os teste da classe &quot;Campo&quot;;&#10;.Criação da classe &quot;EplosaoException&quot;;&#10;.Criação de novos metodos na classe &quot;Campo&quot;&#10;.Criação de novos metodos na classe &quot;Tabuleiro&quot;&#10;.Criação da classe &quot;Aplicacao&quot;;&#10;.Testando a classe Tabuleiro;" />
+    <option name="LAST_COMMIT_MESSAGE" value=".Fazendo os teste da classe &quot;Campo&quot;;&#10;.Criação da classe &quot;EplosaoException&quot;;&#10;.Criação de novos metodos na classe &quot;Campo&quot;&#10;.Criação de novos metodos na classe &quot;Tabuleiro&quot;&#10;.Criação da classe &quot;Aplicacao&quot;;&#10;.Testando a classe Tabuleiro;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/campo_minado$CampoTeste_testeAbrirMinadoeNaoMarcado.ic" NAME="CampoTeste.testeAbrirMinadoeNaoMarcado Coverage Results" MODIFIED="1675204027595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
