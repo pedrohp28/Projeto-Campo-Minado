@@ -1,4 +1,5 @@
-# Campo Minado
+# ![image](https://user-images.githubusercontent.com/91918544/216357474-be274566-e5ac-4c0f-911d-dc7c488f1a0c.png)
+ Campo Minado
 
 Projeto de um campo minado, usando Orientação a Objeto, stream, funções lambdas, Maven e Junit5.
 Na aplicação você tem o objetivo de abrir todos os campos sem selecionar uma mina e marca-las respectivamente. Todo interação e visualização e feita pelo console.
